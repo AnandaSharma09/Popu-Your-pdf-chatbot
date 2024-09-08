@@ -1,0 +1,9 @@
+**Popu** is an intelligent, AI-powered web application designed to facilitate seamless interaction with your PDF documents. Leveraging advanced natural language processing models. 
+Popu reads and comprehends the content of uploaded PDFs, enabling users to ask specific questions related to the documents. 
+Popu uses Google Generative AI models to generate precise and relevant answers, enhancing productivity and streamlining document analysis.
+
+### Key Features:
+- **PDF Analysis**: Upload multiple PDF files, and Popu will extract and process the content for efficient querying.
+- **Conversational Interface**: Ask questions related to your PDFs, and Popu will provide clear, concise answers directly based on the document's content.
+- **Advanced AI Integration**: Powered by Google's Gemini and FAISS, Popu delivers accurate responses, ensuring a robust and intelligent conversation.
+- **Interactive User Experience**: Designed with a clean and intuitive interface, allowing users to easily navigate and interact with their PDFs.
